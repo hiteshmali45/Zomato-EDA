@@ -74,12 +74,13 @@ README.md                    # Project overview and summary
 ## ✅ How to Run
 
 1. Clone this repository.
-2. Make sure you have Python 3.x installed with the required libraries:
+  https://github.com/hiteshmali45/Zomato-EDA
+3. Make sure you have Python 3.x installed with the required libraries:
 
    ```bash
    pip install pandas numpy matplotlib seaborn plotly
    ```
-3. Run the notebook using Jupyter:
+4. Run the notebook using Jupyter:
 
    ```bash
    jupyter notebook zomato_eda_(Hitesh).ipynb
